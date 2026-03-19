@@ -297,7 +297,7 @@
   name: polypyrylium oligomers auto-injector
   parent: NFChemicalMedipen
   id: PolyAutoInjector
-  description: A rapid dose of polyp... polypry... polypropyl.... It contains the extract of spaceman's trumpet. Intended to address brute damage and asphyxiation.
+  description: A rapid dose of polypropylium... polypry... polipryli... polypyrol... It contains the extract of spaceman's trumpet. Intended to address brute damage and asphyxiation.
   components:
   - type: Item
     inhandVisuals:
