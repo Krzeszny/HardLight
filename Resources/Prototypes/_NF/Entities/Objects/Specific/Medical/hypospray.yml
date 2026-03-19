@@ -73,7 +73,7 @@
 - type: entity
   name: empty medipen
   parent: BaseItem
-  description: A empty medipen with endless potential. Does not allow for deviation from Nanotrasen recipes.
+  description: An empty medipen with endless potential. Does not allow for deviation from Nanotrasen recipes.
   id: BlankMediPen
   components:
   - type: Sprite
@@ -297,7 +297,7 @@
   name: polypyrylium oligomers auto-injector
   parent: NFChemicalMedipen
   id: PolyAutoInjector
-  description: A rapid dose of polyp... polypyryl... polypyryliu.... It contains extract of spaceman's trumpet. Intended to address brute damage and asphyxiation.
+  description: A rapid dose of polyp... polypry... polypropyl.... It contains the extract of spaceman's trumpet. Intended to address brute damage and asphyxiation.
   components:
   - type: Item
     inhandVisuals:
